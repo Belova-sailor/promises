@@ -1,3 +1,4 @@
+/* eslint-disable no-plusplus */
 export default function read() {
   return new Promise((resolve) => {
     // эмуляция чтения файла
